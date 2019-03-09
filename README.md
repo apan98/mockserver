@@ -2,7 +2,7 @@
 ## Rest API:
 POST: `/api/json`
 method for save json on database
-```json
+```
 {
   // "id": 34 // optional id for update
   "jsonIn": {
